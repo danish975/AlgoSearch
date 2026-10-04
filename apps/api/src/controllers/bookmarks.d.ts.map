@@ -1,0 +1,1 @@
+{"version":3,"file":"bookmarks.d.ts","sourceRoot":"","sources":["bookmarks.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,SAAS,CAAC;AAGnC,eAAO,MAAM,mBAAmB;IACxB,YAAY,MAAM,GAAG,OAAO,QAAQ;IASpC,WAAW,MAAM,GAAG,OAAO,QAAQ;IAoBnC,cAAc,MAAM,GAAG,OAAO,QAAQ;CAS7C,CAAC"}

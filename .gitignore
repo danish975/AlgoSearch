@@ -1,0 +1,53 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+build/
+dist/
+out/
+.next/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# C++ build
+services/search-engine/build/
+services/search-engine/cmake-build-*/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Testing
+coverage/
+test-results/
+playwright-report/
+
+# Docker
+docker-data/
+
+# Misc
+*.tgz
+*.tar.gz

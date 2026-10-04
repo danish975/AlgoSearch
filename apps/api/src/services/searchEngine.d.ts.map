@@ -1,0 +1,1 @@
+{"version":3,"file":"searchEngine.d.ts","sourceRoot":"","sources":["searchEngine.ts"],"names":[],"mappings":"AASA,eAAO,MAAM,mBAAmB;IACxB,MAAM,SAAS,GAAG;IAUlB,YAAY,IAAI,MAAM,UAAS,MAAM;IAUrC,UAAU,KAAK,MAAM;IAWrB,kBAAkB,KAAK,MAAM,UAAS,MAAM;IAU5C,SAAS;IAUT,aAAa;CASpB,CAAC"}
